@@ -1,5 +1,6 @@
 # Project2
-Titanic dataset evaluation
+##Titanic dataset evaluation
+
 Tech Stack: Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 1. Performed detailed EDA on the Titanic dataset to uncover insights into passenger demographics, survival rates, and feature relationships.
 2. Cleaned and preprocessed the dataset by handling missing values, encoding categorical variables, and removing irrelevant features.
